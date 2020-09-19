@@ -1,0 +1,17 @@
+<svg width="64" height="64" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <polygon stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke-width="2" stroke="#706d44" fill="none" id="svg_2" points="57.862308010458946,48 57.862308010458946,52 5.862308010458946,52 5.862308010458946,48 5.862308010458946,47 5.862308010458946,40 57.862308010458946,40 57.862308010458946,47 " class="st0"/>
+  <path stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke-width="2" stroke="#706d44" fill="none" id="svg_3" d="m15,27l-6,6l-1.2,1.200001c-1.2,1.200001 -1.8,2.700001 -1.8,4.299999l0,1.5l0,7l6,0l0,1l40,0l0,-1l6,0l0,-7l0,-1.5c0,-1.599998 -0.599998,-3.099998 -1.799999,-4.299999l-1.200001,-1.200001l-6,-6" class="st0"/>
+  <path stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke-width="2" stroke="#706d44" fill="none" id="svg_4" d="m29,27c0.1,1.1 0.4,2.1 1,3c-4.4,-1.4 -9.1,-1.299999 -14,0c0.5,-0.9 0.9,-1.9 1,-3c0.299999,-2.1 -0.200001,-4.5 -1,-7c4.4,1.4 9.1,1.299999 14,0c-0.799999,2.5 -1.299999,4.9 -1,7z" class="st0"/>
+  <path stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke-width="2" stroke="#706d44" fill="none" id="svg_5" d="m47.099998,27c0.200001,1 0.5,2 0.900002,3c-4.900002,-1.299999 -9.599998,-1.4 -14,0c0.400002,-1 0.700001,-2 0.900002,-3c0.399998,-2.299999 0.099998,-4.700001 -0.900002,-7c4.400002,1.4 9.099998,1.299999 14,0c-1,2.299999 -1.299999,4.700001 -0.900002,7z" class="st0"/>
+  <line stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke-width="2" stroke="#706d44" fill="none" id="svg_6" y2="33" y1="33" x2="55" x1="9" class="st0"/>
+  <path stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke-width="2" stroke="#706d44" fill="none" id="svg_7" d="m17,27l-2,0l-1,0l-0.5,-6.799999l-0.3,-3.900002c-0.099999,-2.299999 1.8,-4.299999 4.099999,-4.299999l29.400002,0c2.299999,0 4.099998,2 4,4.299999l-0.299999,3.900002l-0.400002,6.799999l-1,0l-1.900002,0" class="st0"/>
+  <line stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke-width="2" stroke="#706d44" fill="none" id="svg_8" y2="27" y1="27" x2="29" x1="34.9" class="st0"/>
+ </g>
+</svg>
